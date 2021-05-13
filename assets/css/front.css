@@ -1,0 +1,8 @@
+.ui-autocomplete-loading {
+    background: white url("../img/loader.gif") right center no-repeat;
+}
+
+.github-avatar {
+    display: block;
+    margin: auto;
+}
